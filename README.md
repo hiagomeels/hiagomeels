@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hiagomeels)](https://twitter.com/hiagomeels)
 
 
-🔭 I’m currently working as a software enginner on **Brazil** <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/>. Most of time working with **Elixir** :purple_heart:, **PHP**, **Javascript**, And others.
+🔭 I’m a software enginner <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/>. Most of time working with **Elixir** :purple_heart:, **PHP**, **Javascript**, And others.
 
 :heart: An **Elixir**, **Docker**, and **IA** lover.
 
